@@ -1,0 +1,2 @@
+Create a context manager that will paint the color of the displayed text. 
+https://www.skillsugar.com/how-to-print-coloured-text-in-python
